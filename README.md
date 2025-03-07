@@ -20,6 +20,14 @@ cd composeApp && ./gradlew jsBrowserRun
 
 - Opens the web app in your default browser.
 
+## 3. Automating
+
+```bash
+./app.sh
+```
+ - Automates everything, ( Running the Rust Backend && The Compose Frontend End)
+
+
 ## 🌐 Access the Application
 
 - **Backend:** [http://localhost:8000](http://localhost:8000)
